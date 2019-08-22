@@ -1,5 +1,8 @@
 List of Specs
-The program breaks numbers down into 1's Input: 2 Output: II
+
+UI that converts numbers 1-9 into Is.
+
+The program breaks larger numbers down into I's Input: 12 Output: IIIIIIIIIIII
 
 The program recognizes numbers which are spelled out and converts them into Roman Numerals. Input: Three Output: III
 

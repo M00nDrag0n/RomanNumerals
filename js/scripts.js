@@ -1,6 +1,11 @@
 var roNum = function(numeral){
-  if((numeral typeof))
-}
+  if(numeral === 1){
+    return "I";
+  }else if(numeral === 2)
+      return "II";
+  }else if(numeral === 3)
+      return "III";
+
 
 
 
